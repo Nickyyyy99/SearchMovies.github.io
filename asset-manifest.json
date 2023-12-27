@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SearchMovies.github.io/static/css/main.a5e08b11.css",
+    "main.js": "/SearchMovies.github.io/static/js/main.f214c218.js",
+    "index.html": "/SearchMovies.github.io/index.html",
+    "main.a5e08b11.css.map": "/SearchMovies.github.io/static/css/main.a5e08b11.css.map",
+    "main.f214c218.js.map": "/SearchMovies.github.io/static/js/main.f214c218.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5e08b11.css",
+    "static/js/main.f214c218.js"
+  ]
+}
